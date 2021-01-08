@@ -1,7 +1,7 @@
 package engine
 
 import (
-	"gowork/crawler/fetcher"
+	"GoCrawler/fetcher"
 	"log"
 )
 

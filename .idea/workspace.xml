@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fb838d2-20fb-4072-8021-0127bebd5dfa" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/GoCrawler.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webResources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/engine/simple.go" beforeDir="false" afterPath="$PROJECT_DIR$/engine/simple.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler/queued.go" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler/queued.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler/simple.go" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler/simple.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ygdy8/parser/movieinfo.go" beforeDir="false" afterPath="$PROJECT_DIR$/ygdy8/parser/movieinfo.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ygdy8/parser/movieslist.go" beforeDir="false" afterPath="$PROJECT_DIR$/ygdy8/parser/movieslist.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ygdy8/parser/typelist.go" beforeDir="false" afterPath="$PROJECT_DIR$/ygdy8/parser/typelist.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/opt/apps/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mn7WD1gstiX5Rt81pe8hv8LdmK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build GoCrawler" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoCrawler" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="GoCrawler" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go 构建.go build GoCrawler" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fb838d2-20fb-4072-8021-0127bebd5dfa" name="默认的" comment="" />
+      <created>1610117530905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610117530905</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="967" y="492" key="#Go_模块" timestamp="1610117629411">
+      <screen x="0" y="0" width="2736" height="1670" />
+    </state>
+    <state x="967" y="492" key="#Go_模块/0.0.2736.1670@0.0.2736.1670" timestamp="1610117629411" />
+    <state x="943" y="335" key="FileChooserDialogImpl" timestamp="1610117715543">
+      <screen x="0" y="0" width="2736" height="1670" />
+    </state>
+    <state x="943" y="335" key="FileChooserDialogImpl/0.0.2736.1670@0.0.2736.1670" timestamp="1610117715543" />
+    <state x="791" y="0" width="1154" height="1670" key="find.popup" timestamp="1610117790874">
+      <screen x="0" y="0" width="2736" height="1670" />
+    </state>
+    <state x="791" y="0" width="1154" height="1670" key="find.popup/0.0.2736.1670@0.0.2736.1670" timestamp="1610117790874" />
+  </component>
+</project>

@@ -1,8 +1,8 @@
 package parser
 
 import (
+	"GoCrawler/engine"
 	"encoding/json"
-	"gowork/crawler/engine"
 	"log"
 	"regexp"
 )

@@ -1,10 +1,10 @@
 package main
 
 import (
-	"gowork/crawler/engine"
-	"gowork/crawler/persist"
-	"gowork/crawler/scheduler"
-	"gowork/crawler/ygdy8/parser"
+	"GoCrawler/engine"
+	"GoCrawler/persist"
+	"GoCrawler/scheduler"
+	"GoCrawler/ygdy8/parser"
 )
 
 func main() {
